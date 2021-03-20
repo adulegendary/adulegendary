@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adulegendary
 - 👀 I’m interested in in learnig new languages and creat new things..
-- 🌱 I’m currently learning c++,java,html and many others soon...
+- 🌱 I’m currently learning c++, java, html, css, js and am looking forward to learn more...
 - 💞️ I’m looking to collaborate with each one of you who are intersted in learning in technology field .
 
 <!---
