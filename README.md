@@ -8,10 +8,12 @@ I'm a Computer Science student at UC Berkeley passionate about building innovati
 - Embedded Systems & Robotics with Raspberry Pi  
 - AI/ML Projects including real-time voice recognition & subtitle generation
 
-📌 **Projects Include:**
+ **Projects Include:**
 - 🕹️ *Build Your Own World* – Procedural world generation game  
 - 🤖 *RL Trained Robot* – Using ScenicGym for real-world robot control  
 - 🔒 *UCOP Internship* – Cybersecurity project coordination (PLCIP, UCISI)
+- ✨ *Ge'ez Slide Highlighter* – Real-time voice-based slide highlighting with speaker detection (Priest, Deacon, Audience)
+
 
 🧠 Always learning. Currently diving deeper into LeetCode, cloud computing (AWS), and voice-based interaction systems.
 
