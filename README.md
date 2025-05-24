@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @adulegendary
-- 👀 I’m interested in in learnig new languages and creat new things..
-- 🌱 I’m currently learning c++, java, html, css, js and am looking forward to learn more...
-- 💞️ I’m looking to collaborate with each one of you who are intersted in learning in technology field .
+## Hi, I'm Adonai Weldemicael
 
-<!---
-adulegendary/adulegendary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student at UC Berkeley passionate about building innovative software and solving real-world problems. 
+
+ **What I do:**
+- Software Engineering & Full-Stack Development  
+- Project Management & Cybersecurity Coordination  
+- Embedded Systems & Robotics with Raspberry Pi  
+- AI/ML Projects including real-time voice recognition & subtitle generation
+
+📌 **Projects Include:**
+- 🕹️ *Build Your Own World* – Procedural world generation game  
+- 🤖 *RL Trained Robot* – Using ScenicGym for real-world robot control  
+- 🔒 *UCOP Internship* – Cybersecurity project coordination (PLCIP, UCISI)
+
+🧠 Always learning. Currently diving deeper into LeetCode, cloud computing (AWS), and voice-based interaction systems.
+
+📫 Let's connect: [LinkedIn]((https://www.linkedin.com/in/adonaiweldemicael/)) | [Email](adonai_tw@berkeley.edu)
