@@ -15,4 +15,4 @@ I'm a Computer Science student at UC Berkeley passionate about building innovati
 
 🧠 Always learning. Currently diving deeper into LeetCode, cloud computing (AWS), and voice-based interaction systems.
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/adonaiweldemicael/)) | [Email](adonai_tw@berkeley.edu)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/adonaiweldemicael/) | [Email](adonai_tw@berkeley.edu)
