@@ -15,6 +15,6 @@ I'm a Computer Science student at UC Berkeley passionate about building innovati
 - ✨ *Ge'ez Slide Highlighter* – Real-time voice-based slide highlighting with speaker detection (Priest, Deacon, Audience)
 
 
-🧠 Always learning. Currently diving deeper into LeetCode, cloud computing (AWS), and voice-based interaction systems.
+🧠 Always learning. Currently in deve deeper into LeetCode, and voice-based interaction systems.
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/adonaiweldemicael/) | [Email](adonai_tw@berkeley.edu)
